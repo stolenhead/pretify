@@ -1,0 +1,80 @@
+.container-fluid{
+	display: inline-block;
+	width: 100%;
+}
+.back{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 540px;
+	background-position: 100% 30% 30%;
+	margin-top: 10px;
+}
+.icono{
+	margin-top: 10%;
+	margin-left: 46%;
+}
+.hea{
+	margin-left: 30%;
+	padding-bottom: 4%;
+	}
+.no{
+	color: black;
+	background-image: url(../images/tile1.png);
+	width: 58%;
+	text-align: center;
+	margin-left: 30%;
+}
+.align{
+	text-align: center;
+	margin-left: 0%;
+	color: #FFFFFF;
+}
+.conta{
+	background-image: url(../images/tile1.png);
+	height: 400px;
+}
+.bord{
+
+	margin-left: 2%;
+	width: 95%;
+}
+.borda{
+	margin-left: 2%;
+	width: 65% !important;
+}
+.contab{
+		border: 1px solid black;
+		padding-top: 4px;
+		margin-right: 1px;
+}
+.contaa{
+	margin: 0% 7% 7% 11%;
+}
+.radio{
+	border-radius: 50%;
+	border-style: double;
+	border-color:  #DCB1F6;
+}
+footer{
+	box-sizing: border-box;
+	margin-top: 5%;
+	padding: 5%; 
+	background-image: url(../images/tile2.png);
+}
+.fut{
+	text-align: center;
+}
+.left{
+	margin-left: 30%;
+}
+.co{
+	font-family: "Oswald", sans-serif;
+	text-align: center;
+}
+h3{
+	color: #945BEB;
+}
+h2{
+	color: #945BEB;
+}
